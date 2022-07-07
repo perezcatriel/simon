@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Juego de Memoria por turnos.
+Juego de Memoria por turnos. Donde el jugador tiene que repetir la secuencia de colores que muestra la compu
 
 ## Tecnologia usadas
 
@@ -10,3 +10,12 @@ Juego de Memoria por turnos.
 - CSS
 - Bootstrap
 - HTML
+
+## Instalar
+
+```
+npm i
+```
+
+## Autor
+[Catriel](perezcatriel@gmail.com)
