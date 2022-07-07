@@ -1,62 +1,57 @@
 h1 {
-  text-align: center;
+	text-align: center;
+	letter-spacing: 3px;
 }
 
 input {
-  width: 100%;
+	width: 100%;
 }
 
 .cuadro {
-  width: 100vw;
-  height: 40vh;
-  border-radius: 10px;
-  border: 1px solid black;
-  margin: 10px;
-  box-shadow: 0 0 10px 5px black;
-}
-
-.cuadro:hover {
-  box-shadow: none;
+	width: 100vw;
+	height: 40vh;
+	border-radius: 10px;
+	border: 1px solid black;
+	margin: 10px;
+	box-shadow: 0 0 10px 5px black;
 }
 
 .a {
-  background-color: blue;
-  opacity: .7;
+	background-color: blue;
+	opacity: 0.7;
 }
 
 .a:active {
-  opacity: 1;
+	opacity: 1;
 }
 
 .b {
-  background-color: red;
-  opacity: .7;
+	background-color: red;
+	opacity: 0.7;
 }
 
 .b:active {
-  opacity: 1;
+	opacity: 1;
 }
 
-
 .c {
-  background-color: green;
-  opacity: .7;
+	background-color: green;
+	opacity: 0.7;
 }
 
 .c:active {
-  opacity: 1;
+	opacity: 1;
 }
 
 .d {
-  background-color: yellow;
-  opacity: .7;
+	background-color: yellow;
+	opacity: 0.7;
 }
 
 .d:active {
-  opacity: 1;
+	opacity: 1;
 }
 
-
 .resultado {
-  display: none;
+	display: none;
 }
