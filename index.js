@@ -111,8 +111,6 @@ function resaltar($cuadro) {
 function bloquearInputUsuario() {
 	document.querySelectorAll(".cuadro").forEach(function ($cuadro) {
 		$cuadro.onclick = function () {};
-
-		const cuadro = document.querySelectorAll(".cuadro");
 	});
 }
 
