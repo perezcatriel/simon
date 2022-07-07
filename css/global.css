@@ -3,6 +3,11 @@ h1 {
 	letter-spacing: 3px;
 }
 
+#skol {
+	text-decoration: none;
+	color: black;
+}
+
 input {
 	width: 100%;
 }
