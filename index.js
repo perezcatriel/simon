@@ -103,7 +103,7 @@ function resaltar($cuadro) {
 	$cuadro.style.boxShadow = "none";
 
 	setTimeout(function () {
-		$cuadro.style.opacity = 0.5;
+		$cuadro.style.opacity = 0.7;
 		$cuadro.style.boxShadow = "0 0 10px 5px black";
 	}, 500);
 }
